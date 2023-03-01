@@ -97,4 +97,3 @@ for title in listTitle:
     f.close()
     print('DONE!!!!!!!!!!!!!!!!')
     print('-'*30)
-    break
